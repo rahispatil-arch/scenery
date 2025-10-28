@@ -1,0 +1,24 @@
+first-offer,
+.second-offer {
+    padding: 20px;
+    border: 1px solid black;
+    width: 350px;
+    background-color: rgb(70, 116, 217);
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h3 { 
+    color: white;
+    margin: 10px;
+}
+h2 {
+    color: white;
+ margin: 10px;
+}
+
+p {
+    color: white;
+    margin: 10px;
+    font-style: oblique;
+}
